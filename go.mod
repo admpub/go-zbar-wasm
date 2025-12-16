@@ -1,4 +1,4 @@
-module github.com/mrg0lden/go-zbar-wasm
+module github.com/admpub/go-zbar-wasm
 
 go 1.23
 
