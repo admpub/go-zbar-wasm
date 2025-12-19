@@ -7,8 +7,8 @@ import (
 	"io"
 	"testing"
 
+	"github.com/admpub/go-zbar-wasm"
 	"github.com/alecthomas/assert/v2"
-	"github.com/mrg0lden/go-zbar-wasm"
 	"github.com/yeqown/go-qrcode/v2"
 	"github.com/yeqown/go-qrcode/writer/standard"
 )
